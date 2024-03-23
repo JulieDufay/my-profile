@@ -1,0 +1,113 @@
+body { 
+	color: rgb (0,0,0);
+	font-family: "Abel", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 300;
+	font-style: normal;
+	/*background-image: url("image/Fond bleu.jpeg");*/
+    /*background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);*/
+    /*background: rgb(93,192,205);
+    background: radial-gradient(circle, rgba(93,192,205,1) 1%, rgba(169,197,231,1) 100%);*/
+    text-align: center;
+    background: white;
+}
+
+h1 {
+	color: #537147;
+	text-align: center;
+	font-family: "Dancing Script", cursive;
+  	font-optical-sizing: auto;
+  	font-weight: 300;
+  	font-style: normal;
+  	font-size: 75px;
+}
+
+h2 {
+	color: #5C7D4F;
+	font-size: 24px;
+	text-align: center;
+	font-family: "Playfair Display", serif;
+	font-optical-sizing: auto;
+	font-weight: 300;
+	font-style: normal;
+	margin-bottom: 30px;
+	font-size: 35px;
+}
+
+a {
+	text-decoration: none;
+	text-align: center;
+}
+
+p { 
+	text-align: center;
+	margin-bottom: 30px;
+	font-size: 22px; 
+}
+
+div {
+	background-color: #FFF8EB;
+	border: 2px solid black;
+	margin: 50px;
+	padding: 10px 50px 10px 50px;
+	box-shadow: 0px 10px 20px #906713;
+	border-radius: 10px;
+	border: 2px solid #C2781E;
+}
+
+#photo_profil {
+	height: 300px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+}
+
+.btn-blue {
+	background-color: #537147 ;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 15px;
+}
+
+.btn-blue:hover {
+	background-color: #344026;
+	color: white;
+}
+
+.list-inline {
+	list-style: none; 
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 30px;
+}
+
+.list-inline i {
+	font-size: 30px; 
+	color: #537147;
+}
+
+.list-inline i:hover {
+	font-size: 30px; 
+	color: #344026 ;
+}
+
+#logo_ESSEC{
+	height: 200px;
+}
+
+#logo_RIL{
+	height: 75px;
+}
+
+#logo_EC{
+	height: 100px;
+}
+
+#logo_PM{
+	height: 100px;
+}
